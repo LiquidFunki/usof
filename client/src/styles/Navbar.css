@@ -1,0 +1,10 @@
+.mainNavHereForBorderTop{
+    border-top: 3px solid orange;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
+    height: 59px;
+}
+
+.kuzya{
+    color: orange !important;
+    text-decoration: none;
+}
